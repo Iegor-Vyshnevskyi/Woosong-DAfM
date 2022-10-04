@@ -3,7 +3,7 @@
 This Repo contains materials from the Data Analytics for Management course delivered at Endicott College of Woosong University in Fall 2022.
 
 ## Github account
-It would be good for you to open your own [GitHub accont](https://github.com/). In addition, please concider to apply for [the GitHub Student Developer Pack](https://education.github.com/pack). There is also an option to use advanced git account either for discounted price or free.
+It would be good for you to open your own [GitHub account](https://github.com/). In addition, please consider applying for [the GitHub Student Developer Pack](https://education.github.com/pack). There is also an option to use an advanced git account either for a discounted price or for free.
 
 
 ## Useful sources
