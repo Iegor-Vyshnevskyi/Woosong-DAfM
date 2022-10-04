@@ -2,6 +2,10 @@
 
 This Repo contains materials from the Data Analytics for Management course delivered at Endicott College of Woosong University in Fall 2022.
 
+## Github account
+It would be good for you to open your own [GitHub accont](https://github.com/). In addition, please concider to apply for [the GitHub Student Developer Pack](https://education.github.com/pack). There is also an option to use advanced git account either for discounted price or free.
+
+
 ## Useful sources
 
 - Garrett Grolemund and Hadley Wickham (2016). [R for Data Science](https://r4ds.had.co.nz/)
