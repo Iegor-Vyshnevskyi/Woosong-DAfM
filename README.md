@@ -14,7 +14,7 @@ It would be good for you to open your own [GitHub account](https://github.com/).
 
 ## Special Thanks
 
-The R-part of this course was desined based on [R Fundamentals for Public Policy](https://github.com/KDIS-DSPPM/r-fundamentals) and [Data Visualization](https://github.com/KDIS-DSPPM/data-visualization) courses of Professor [Jae Yeon Kim](https://jaeyk.github.io/).   
+The R-part of this course was desined based on [R Fundamentals for Public Policy](https://github.com/KDIS-DSPPM/r-fundamentals), [Data Visualization](https://github.com/KDIS-DSPPM/data-visualization) courses of Professor [Jae Yeon Kim](https://jaeyk.github.io/) and Jan 2021 R-Workshop of Professor Inbok Rhee at KDI School.   
 
 
 
